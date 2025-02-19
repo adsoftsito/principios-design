@@ -11,4 +11,4 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 
 # week 2
 
-1. (slides w2)[https://docs.google.com/presentation/d/1x7UQ794CXgFF0G8SzYwOXiRmAwvLIxWCMDp8bJcA3p4/edit?usp=sharing]
+1. [slides w2](https://docs.google.com/presentation/d/1x7UQ794CXgFF0G8SzYwOXiRmAwvLIxWCMDp8bJcA3p4/edit?usp=sharing)

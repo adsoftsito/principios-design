@@ -12,3 +12,9 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 # week 2
 
 1. [slides w2](https://docs.google.com/presentation/d/1x7UQ794CXgFF0G8SzYwOXiRmAwvLIxWCMDp8bJcA3p4/edit?usp=sharing)
+
+# Parcial 2
+
+1. [Intro Antlr](https://docs.google.com/presentation/d/1tLjDYmkaPwwyJHrfDPb7Zk-8CbYUC-vtToTm-cnO_YE/edit?usp=sharing)
+2. [spring-boot](https://docs.google.com/presentation/d/14KtJUxwHGjgou1fmZAZBHSbDI3YKaM0B5zCS_FwOeQk/edit?usp=sharing)
+   

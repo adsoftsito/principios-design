@@ -20,4 +20,5 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 3. [calculator](https://docs.google.com/presentation/d/15HHoTxF8nK9hm67Um_33N6qw3JVjJhSTMUrJgeU6S_A/edit?usp=sharing)
 4. [JWT-spring-boot](https://www.bezkoder.com/spring-boot-security-postgresql-jwt-authentication/)
 5. [deploy spring-boot](https://docs.google.com/presentation/d/1P1ylYSL9c0aJcO2JxHQxiFecEcw8k9Gw3UHm941oozc/edit?usp=sharing)
+6. [angular-frontend](https://docs.google.com/presentation/d/1J6Z-gaKGVPHJizs0lFfaU28A1BzKrZH_qB4h-4TfUSo/edit?usp=sharing)
    

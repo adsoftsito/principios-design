@@ -4,21 +4,10 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 
 [sylabus](https://www.uv.mx/oferta-educativa/experiencia-educativa/?programa=ISOF-23-E-CR&cur=38002&mat=ISMN)
 
-# week 1
-1. Lectura [metodologias de desarrollo](https://www.positivo.pro/blog/metodologias-agiles-vs-tradicionales/)
-2. Leer [Manifiesto Agil](https://agilemanifesto.org/iso/es/manifesto.html)
-3. Ver [Github Projects](https://github.com/features/issues)
+# week 1 - Intro a POO, herencia, polimorfismo, ..
+# week 2 - SOLID
+# week 3 - Intro to Pattern Design
+# week 4 - Structural Pattern Design
+# week 4 - Creational Pattern Design
+# week 4 - Behavior Pattern Design
 
-# week 2
-
-1. [slides w2](https://docs.google.com/presentation/d/1x7UQ794CXgFF0G8SzYwOXiRmAwvLIxWCMDp8bJcA3p4/edit?usp=sharing)
-
-# Parcial 2
-
-1. [Intro Antlr](https://docs.google.com/presentation/d/1tLjDYmkaPwwyJHrfDPb7Zk-8CbYUC-vtToTm-cnO_YE/edit?usp=sharing)
-2. [spring-boot](https://docs.google.com/presentation/d/14KtJUxwHGjgou1fmZAZBHSbDI3YKaM0B5zCS_FwOeQk/edit?usp=sharing)
-3. [calculator](https://docs.google.com/presentation/d/15HHoTxF8nK9hm67Um_33N6qw3JVjJhSTMUrJgeU6S_A/edit?usp=sharing)
-4. [JWT-spring-boot](https://www.bezkoder.com/spring-boot-security-postgresql-jwt-authentication/)
-5. [deploy spring-boot](https://docs.google.com/presentation/d/1P1ylYSL9c0aJcO2JxHQxiFecEcw8k9Gw3UHm941oozc/edit?usp=sharing)
-6. [angular-frontend](https://docs.google.com/presentation/d/1J6Z-gaKGVPHJizs0lFfaU28A1BzKrZH_qB4h-4TfUSo/edit?usp=sharing)
-   

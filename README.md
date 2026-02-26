@@ -6,7 +6,10 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 
 # week 1 - Intro a POO, herencia, polimorfismo
 [intro POO](https://docs.google.com/presentation/d/1ZHfYG3uu0lJDzqbWVqyH7SwEGlYtAoA72VT-JQfE1zo/edit?usp=sharing)
+
 # week 2 - SOLID
+[solid](https://docs.google.com/presentation/d/1fMTX5HvxMQZ2iJqBl_uWj7zHr1whpTKYWpyIerwn-Dk/edit?usp=sharing)
+
 # week 3 - Intro to Pattern Design
 # week 4 - Structural Pattern Design
 # week 4 - Creational Pattern Design

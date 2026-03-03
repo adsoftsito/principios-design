@@ -11,6 +11,8 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 [solid](https://docs.google.com/presentation/d/1fMTX5HvxMQZ2iJqBl_uWj7zHr1whpTKYWpyIerwn-Dk/edit?usp=sharing)
 
 # week 3 - Intro to Pattern Design
+[intro design patterns](https://drive.google.com/file/d/1tI2i1AoQXylhKVk6TtBCj91ZrqQbY9l6/view?usp=sharing)
+
 # week 4 - Structural Pattern Design
 # week 4 - Creational Pattern Design
 # week 4 - Behavior Pattern Design

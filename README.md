@@ -17,6 +17,7 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 [creational patterns](https://docs.google.com/presentation/d/1HQ7Etn7_j_qP7awHKFahMeH3oh_z3QyJ/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
 # week 5 - Structural Pattern 
+[structural patterns](https://docs.google.com/presentation/d/1wlUGQiroX0BGjl-25O4ZALiCb8mhZiWY/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
 # week 6 - Behavior Pattern 
 

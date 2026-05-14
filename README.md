@@ -21,3 +21,4 @@ lista de clase [principios-design](https://docs.google.com/spreadsheets/d/1BHa37
 
 # week 6 - Behavior Pattern 
 
+[behavior patterns](https://docs.google.com/presentation/d/1L-1kKoiHEynt8skbmc_1Aww2DxdZIBme/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
